@@ -1,0 +1,11 @@
+1. superset of css
+2. can add variable to css
+3. can add function to css
+4. can create nested css
+5. can perform operation inside css
+6. can do code split up into module using "PARTIAL"
+Ex _filename.scss is partial file
+7. mixin are similar to function using that you can avoid code repeatition
+8. Difference between function and mixin
+Function are used to compute the value
+mixin are used to define the styles
